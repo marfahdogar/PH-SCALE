@@ -1,0 +1,5 @@
+git clone (https://github.com/marfahdogar/PH-SCALE.git)
+git status
+git add .
+git commit -m"pH Scale Created"
+git push origin main
